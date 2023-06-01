@@ -1,4 +1,4 @@
-public class customor
+public class Customor
 { 
    int aadhar_no,pan_no,atm_no;
    public customor(int  aadhar, int pan, int atm)
