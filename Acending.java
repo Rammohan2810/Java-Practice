@@ -1,6 +1,6 @@
 
 
-public class acending {
+public class Acending {
 
 public static void main (String[] args){
 
