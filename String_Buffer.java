@@ -3,7 +3,7 @@ import java.io.BufferedReader;
 /* StringBuffer is synchronized.It is thread safe. 
 It means two threads can't call the methods of StringBuffer 
 simultaneously StringBuffer is less efficient than StringBuilder.
-StringBuffer was introduced in Java 1.0. */
+StringBuffer was introduced in Java 1.0 */
 
 public class String_Buffer
 {
