@@ -3,7 +3,7 @@ in which a class has more than one method
 of the same name and their parameters are different */
 public class Method_Overload
 {
-public static void main(String[] args) 
+public static void main(String[]args) 
 {
 
 	add(10,20);
