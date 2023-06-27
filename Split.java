@@ -14,4 +14,4 @@ System.out.println(Second_split);
 System.out.println(Thrid_split);
 }
 }
- // String manipulation methods - charAt(), split, sub String,  drim, replace, Indexof()    
+ // String manipulation methods - charAt(), split, sub String,  trim, replace, Indexof()    
