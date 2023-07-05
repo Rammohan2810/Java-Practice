@@ -16,5 +16,5 @@ public class Customor
 	private void applyloan() 
             {
 		System.out.println("customor atm no is "+ atm_no);
-    	    }
+       	    }
 }
