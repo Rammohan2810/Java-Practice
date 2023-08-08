@@ -6,7 +6,7 @@ public static void main(String[] args)
         long result = factorial(num);
         System.out.println(num + "! = " + result);
 }
-    public static long factorial(int n) 
+    public static long factorial(int n)
         {
         if(n == 0 || n == 1) 
         { 
